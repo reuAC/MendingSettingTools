@@ -1,0 +1,9 @@
+name: MendingSettingTools
+version: '${project.version}'
+main: org.reuac.mendingsettingtools.MendingSettingTools
+api-version: '1.13'
+commands:
+  mendingsettingtools:
+    description: "mendingsettingtools"
+    aliases: mstool
+    permission: mendingsettingtools.main
